@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I went through almost 4 and a half hours of C programming interviews over multiple rounds to get the job. On joining, I was handed a Perl script and asked to make it compatible across Linux distros  and fix all issues. Thats how my professional journey started as a embedded/software engineer.
+
 <!--
 **jbteja/jbteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
