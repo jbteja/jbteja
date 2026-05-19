@@ -1,6 +1,14 @@
 ## Hi there 👋
 
-I went through almost 4 and a half hours of C programming interviews over multiple rounds to get the job. On joining, I was handed a Perl script and asked to make it compatible across Linux distros  and fix all issues. Thats how my professional journey started as a embedded/software engineer.
+⚡ Fun fact:
+- I went through almost 4.5 hours of C programming interviews over multiple rounds to get the job. Upon joining, I was handed Perl scripts and asked to make it compatible across Linux distros (Ubuntu, CentOS, RHEL, Fedora) and fix all the issues. That’s how my professional journey as an embedded/software engineer started.
+ 
+- Ironically, until then, I had never even heard of Perl or known that it was used in the industry.
+
+Of course, the people I worked with were great and helped me through it. Kudos to them.
+
+One thing I realized at that point, and still follow today - is that, as long as I stay open-minded and teachable, almost anything can be learned and accomplished on the job. The only real constraint is time, which we rarely have enough of.
+
 
 <!--
 **jbteja/jbteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
