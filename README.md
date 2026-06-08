@@ -8,10 +8,10 @@
 
 One thing I realized at that point, and still follow today - is that, as long as I stay open-minded and teachable, almost anything can be learned and accomplished on the job. The only real constraint is time, which we rarely have enough of.
 
-### 🤔 Now, After a decade of learning and looking back:
+### 🤔 After a decade of learning and looking back:
 - My career has been anything but linear -> Starting with C programming, moving into Perl scripting, returning to C and C++, expanding into Shell and Windows Batch scripting, venturing into networking, Linux user‑space applications, driver development, and security, exploring cryptography (OpenSSL engine, SSL, TLS, Hardware Security Modules), RTOS, hardware design, sensor calibration, schematics, and PCB design, then moving into Python, FastAPI backend, automation and testing (pytest, Google Test), later evolving into CI/CD automation with Jenkins, Groovy, AWS, Azure cloud, high availability, load balancing, reliability, and containers (Docker, K3s), before finally circling back to systems programming/firmware development in C and C++.
 
-I understood that the technology itself doesn't matter as long as there is proper documentation or a proper handoff from the previous owner, along with some time to get a kickstart -> that's all needed to do anything new from scratch.
+Now, I understood that the technology itself doesn't matter as long as there is proper documentation or a proper handoff from the previous owner, along with some time to get a kickstart -> that's all needed to do anything new from scratch.
 
 <!--
 **jbteja/jbteja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
