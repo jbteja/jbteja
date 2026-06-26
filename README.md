@@ -3,7 +3,7 @@
 ### ⚡ Fun fact:
 - My interview process involved almost 4.5 hours of C programming across multiple rounds to get the job. Upon joining, I was handed Perl scripts and asked to make it compatible across Linux distros (Ubuntu, CentOS, RHEL, Fedora) and fix all the issues. That’s how my professional journey as an embedded/software engineer started.
 - Ironically, until then, I had never even heard of Perl, nor did I know it was being used so extensively in the industry back then.
-- Of course, the people I worked with were great and helped me through it. Kudos to them, and lucky me.
+- Of course I finished the work. The people I worked with were great and helped me through it. Kudos to them, and lucky me.
 
 One thing I realized at that point, and still follow today - is that, as long as I stay open-minded and teachable, almost anything can be learned and accomplished on the job. The only real constraint is time, which we rarely have enough of.
 
